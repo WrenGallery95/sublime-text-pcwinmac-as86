@@ -1,4 +1,4 @@
-# 
+# Advanced Sublime Text scripts for Mac OS | Ultimate Sublime Text scripts for PC Windows. Featuring SSL-certificate-management and container-management — optimized for maximum performance on every platform.
 
 
 
